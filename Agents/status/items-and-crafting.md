@@ -162,7 +162,8 @@ Part of [Status](../Status.md); what to build next in this area is in
   and open sides without ordinary affixes are refused before spending.
   CoE beta pool and simulated-probability checks, ordinary/Shift inventory/stash dispatch and save reloads have
   automated coverage. The old live check (2026-10-21) predates these admission checks; native re-acceptance is pending.
-  See [13](../docs/protocol/13-items.md), "Orb of Augmentation", and
+  See [13](../docs/protocol/13-items.md), "Orb of Augmentation",
+  [evidence](../docs/re/augmentation-coe.md).
 - Special defence rules and local requirement percentages. Docs: [13](../docs/protocol/13-items.md) §2-§2d.
 - Unique items, Mageblood, Headhunter and abyss jewels; most uniques' own mechanics are missing.
   Docs: [13](../docs/protocol/13-items.md) §2e, §8a.
